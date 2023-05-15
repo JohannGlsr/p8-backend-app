@@ -1,0 +1,1 @@
+web: gunicorn p8-backend-app:app
